@@ -1,2 +1,1 @@
-Sami Serhan,samii.serhan@gmail.com,327876298
-Salam qais,salamqais75@gmail.com,327876116
+Homework description in this homework we do set of action on concurrent list 
